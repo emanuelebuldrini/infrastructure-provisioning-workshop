@@ -9,7 +9,7 @@ spec:
     namespace: frontend
   project: default
   source:
-    repoURL: https://github.com/squer-solutions/infrastructure-provisioning-workshop.git
+    repoURL: https://github.com/emanuelebuldrini/infrastructure-provisioning-workshop
     targetRevision: main
     path: frontend
   syncPolicy:
